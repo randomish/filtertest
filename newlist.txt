@@ -1,0 +1,5 @@
+[Adblock Plus 2.0]
+! Title: New custom test list
+
+! A dummy exception to test filter count
+@@||example.com/$document
