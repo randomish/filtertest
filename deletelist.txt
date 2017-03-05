@@ -1,0 +1,3 @@
+[Adblock Plus 2.0]
+! Title: Dead list. Please delete me.
+! Redirect:

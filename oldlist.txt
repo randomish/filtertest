@@ -1,0 +1,2 @@
+[Adblock Plus 2.0]
+! Redirect: https://raw.githubusercontent.com/randomish/filtertest/master/newlist.txt

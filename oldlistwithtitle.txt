@@ -1,0 +1,3 @@
+[Adblock Plus 2.0]
+! Title: Old obsolete list with custom title
+! Redirect: https://raw.githubusercontent.com/randomish/filtertest/master/newlist.txt
